@@ -1,10 +1,12 @@
-# All Day DevSecOps
+# All Day DevSecOps 2018
 
-Best talks with great clever guys, thanks for sharing your amazing presentations.
+Great talk guys, thanks for sharing your amazing presentations and knowledge.
+
+The presentations were only shared in slack channel and thought to correlate them in one place.
 
 If there is any modification to the content please contact me.
 
-***In Presentations folder is not a complete list of the presentations but the ones I could manage to collect, please update if you want with the missing.***
+***In Presentations folder is not a complete list of the presentations but the ones I could manage to collect, please update if you want with the missing ones .***
 
 * [Mark Miller](https://alldaydevops2018.sched.com/event/GZH2/all-day-devops-kick-off-with-mark-miller-derek-weeks) - All Day DevOps Kick Off with Mark Miller & Derek Weeks
 * [Omer Levi Hevroni](https://alldaydevops2018.sched.com/event/Ehhc/helming-your-pipeline-building-a-secure-cicd-pipeline-for-kubernetes) - Helming Your Pipeline: Building A Secure CI/CD Pipeline For Kubernetes
